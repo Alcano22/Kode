@@ -1,0 +1,886 @@
+[
+  {
+    "transform": {
+      "position": {
+        "x": 103.0,
+        "y": 100.0
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 256.0,
+        "y": 256.0
+      }
+    },
+    "zIndex": 3,
+    "name": "Pumpkin",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": -237.0
+              },
+              {
+                "x": 1.0,
+                "y": -238.0
+              },
+              {
+                "x": 0.0,
+                "y": -238.0
+              },
+              {
+                "x": 0.0,
+                "y": -237.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 103.0,
+              "y": 100.0
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 256.0,
+              "y": 256.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 250.0,
+        "y": 100.0
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 256.0,
+        "y": 256.0
+      }
+    },
+    "zIndex": 2,
+    "name": "Blobfish",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": -761.0
+              },
+              {
+                "x": 1.0,
+                "y": -762.0
+              },
+              {
+                "x": 0.0,
+                "y": -762.0
+              },
+              {
+                "x": 0.0,
+                "y": -761.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 250.0,
+              "y": 100.0
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 256.0,
+              "y": 256.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 98.0,
+        "y": 527.6445
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 98.0,
+              "y": 527.6445
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 573.3333,
+        "y": 240.17781
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 573.3333,
+              "y": 240.17781
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 544.6667,
+        "y": 184.80002
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 544.6667,
+              "y": 184.80002
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 432.66666,
+        "y": 166.13335
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 432.66666,
+              "y": 166.13335
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 614.6667,
+        "y": 151.20001
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": -24.0
+              },
+              {
+                "x": 1.0,
+                "y": -25.0
+              },
+              {
+                "x": 0.0,
+                "y": -25.0
+              },
+              {
+                "x": 0.0,
+                "y": -24.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 614.6667,
+              "y": 151.20001
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 182.66666,
+        "y": 174.84445
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": -22.0
+              },
+              {
+                "x": 1.0,
+                "y": -23.0
+              },
+              {
+                "x": 0.0,
+                "y": -23.0
+              },
+              {
+                "x": 0.0,
+                "y": -22.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 182.66666,
+              "y": 174.84445
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 502.0,
+        "y": 202.22224
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 502.0,
+              "y": 202.22224
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 374.0,
+        "y": 196.62224
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": 33.0
+              },
+              {
+                "x": 1.0,
+                "y": 32.0
+              },
+              {
+                "x": 0.0,
+                "y": 32.0
+              },
+              {
+                "x": 0.0,
+                "y": 33.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 374.0,
+              "y": 196.62224
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 375.3333,
+        "y": 164.88892
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": 10.0
+              },
+              {
+                "x": 1.0,
+                "y": 9.0
+              },
+              {
+                "x": 0.0,
+                "y": 9.0
+              },
+              {
+                "x": 0.0,
+                "y": 10.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 375.3333,
+              "y": 164.88892
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 378.66666,
+        "y": 181.6889
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 0.041666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.041666668,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 0.974359
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 378.66666,
+              "y": 181.6889
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "transform": {
+      "position": {
+        "x": 294.0,
+        "y": 195.37779
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 16.0,
+        "y": 16.0
+      }
+    },
+    "zIndex": 0,
+    "name": "SpriteObjectGen",
+    "tag": "Default",
+    "components": [
+      {
+        "type": "org.kode.gameobject.component.SpriteRenderer",
+        "properties": {
+          "sprite": {
+            "texture": {
+              "filepath": "assets/textures/objects.png",
+              "isBound": false,
+              "texId": 2,
+              "width": 16,
+              "height": 16
+            },
+            "texCoords": [
+              {
+                "x": 1.0,
+                "y": -145.0
+              },
+              {
+                "x": 1.0,
+                "y": -146.0
+              },
+              {
+                "x": 0.0,
+                "y": -146.0
+              },
+              {
+                "x": 0.0,
+                "y": -145.0
+              }
+            ]
+          },
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "isDirty": false,
+          "lastTransform": {
+            "position": {
+              "x": 294.0,
+              "y": 195.37779
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 16.0,
+              "y": 16.0
+            }
+          }
+        }
+      }
+    ]
+  }
+]
